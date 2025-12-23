@@ -1,1 +1,1 @@
-Predicting FWI (Fire Weather Index) for Algerian_Fire Dataset
+## Predicting FWI (Fire Weather Index) for Algerian_Fire Dataset
